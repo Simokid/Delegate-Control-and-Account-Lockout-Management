@@ -4,7 +4,7 @@ This repository documents the setup and configuration of a home lab environment 
 
 <h1>Objectives</h1>
 
-- **ADelegate Control**: Implementing and testing delegation of administrative privileges in an AD environment to different users or groups, ensuring least privilege access.
+- **Delegate Control**: Implementing and testing delegation of administrative privileges in an AD environment to different users or groups, ensuring least privilege access.
 - **Account Lockout Management**: Configuring and testing account lockout policies to secure accounts from brute-force attacks while ensuring proper exception handling.
 
 
