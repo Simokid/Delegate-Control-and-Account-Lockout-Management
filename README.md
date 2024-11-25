@@ -135,7 +135,7 @@ Navigate to File in the top-left corner and select Select Target. Enter Andrew a
     <br />
 </p>
 
-s
+
 
 15. <p align="center">
     <img src="https://i.imgur.com/vFe3kXQ.png" height="80%" width="80%" alt="Disk Sanitization Steps 15"/>
@@ -165,7 +165,7 @@ Now we can have Andrew sign back into his account.
     <br />
 </p>
 
-s
+
 
 18. <p align="center">
     <img src="https://i.imgur.com/LDi6ybY.png" height="80%" width="80%" alt="Disk Sanitization Steps 18"/>
